@@ -100,6 +100,7 @@ This project follows **external CSS styling** for a clean and maintainable struc
 
 ## 📧 Contact
 For any queries or feedback, reach out at [rahuldutta.rd11@gmail.com](rahuldutta.rd11@gmail.com).
+Live-url - https://user-info-test.netlify.app/
 
 ---
 
